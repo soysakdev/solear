@@ -31,7 +31,7 @@ const barChartData = {
       fill: false,
     }, {
       label: 'Capacidad Hidroeléctrica',
-      data: [300, 310, 320, 330, 340],
+      data: [300, 310, 320, 330, 350],
       borderColor: '#2196f3',
       fill: false,
     }]
